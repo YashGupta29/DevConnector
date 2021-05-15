@@ -1,0 +1,6 @@
+{
+    "mongoURI": "mongodb+srv://admin:lCD4TZuwIs5KPwy1@cluster0.wr85i.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+    "jwtSecret":"ajfafjoeajalkfjskafjaejfoiajlkdna dj ajvbjvbkjbadjkbjkasbfhaeifaehfkasnfnaelkfiea",
+    "githubClientId":"b4bd81e48894ca31f871",
+    "githubSecret":"ebd936309064c1c6dc8cb3d2bd2e4080fc53792e"
+}
